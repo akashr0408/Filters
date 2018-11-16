@@ -1,0 +1,9 @@
+Project Title - Filters
+   This project aims to implment FIR and IIR filters in Python and visualize their output graphically.
+
+Motivation
+   Learning about filters. See how various parameters affect the output. 
+
+Built With:
+   Python
+      Libraries used: matplotlib, scipy, numpy
